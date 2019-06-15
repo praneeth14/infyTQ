@@ -1,0 +1,2 @@
+# infyTQ
+InfyTQ Assignment Solutions
