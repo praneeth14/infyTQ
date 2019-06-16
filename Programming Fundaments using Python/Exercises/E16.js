@@ -12,9 +12,9 @@ function gcd(a, b) {
     }
     return b
 }
-if(a >b){
+
+if (a > b) {
     console.log((a * b) / gcd(a, b));
-}
-else{
-        console.log((a * b) / gcd(b, a));
+} else {
+    console.log((a * b) / gcd(b, a));
 }
