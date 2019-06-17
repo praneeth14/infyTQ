@@ -1,5 +1,5 @@
 # infyTQ
-InfyTQ Assignment Solutions
+InfyTQ Assignment and Exercise Solutions
 
 A-Assignment
 
